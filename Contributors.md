@@ -437,6 +437,7 @@
 - [Chibuokem Obiegbulem](https://github.com/bu-okem)
 - [Akshay Kumbarwar](https://github.com/aks14075032)
 - [Nikhil Narla](https://github.com/nikhilnarla)
+- [Mahijith Menon](https://github.com/MahijithMenon)
 - [Medha](https://github.com/medha-verma)
 - [Jonathan Mani](https://github.com/jonathanmani)
 - [Vatsal Patel](https://github.com/VatsalP117)
